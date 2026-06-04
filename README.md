@@ -1,5 +1,6 @@
 # ai-devops-assistant
 
+when readme exists
 
 - git init
 - git remote add origin https://github.com/nagapplications/ai-devops-assistant.git

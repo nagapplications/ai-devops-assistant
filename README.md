@@ -10,3 +10,14 @@ When readme exists
 - git push origin main
 - git branch --set-upstream-to=origin/main main
 - git pull
+
+
+
+without readme
+
+- git init
+- git add .
+- git commit -m "initial commit"
+- git branch -M main
+- git remote add origin https://github.com/nagapplications/ai-devops-assistant.git
+- git push -u origin main

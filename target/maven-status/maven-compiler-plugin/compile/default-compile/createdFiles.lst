@@ -1,0 +1,4 @@
+com/naglabs/ai_devops_assistant/config/AwsConfig.class
+com/naglabs/ai_devops_assistant/AiDevopsAssistantApplication.class
+com/naglabs/ai_devops_assistant/controller/TestController.class
+com/naglabs/ai_devops_assistant/service/BedrockService.class

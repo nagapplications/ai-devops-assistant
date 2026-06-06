@@ -6,9 +6,10 @@ When readme exists
 - git remote add origin https://github.com/nagapplications/ai-devops-assistant.git
 - git pull origin main --allow-unrelated-histories   # brings README
 - check remote readme file in your local pulled
-- git add .
+- git add . #add your local changes
 - git commit -m "initial setup"
 - git push origin main
+- 
 - git branch --set-upstream-to=origin/main main
 - git pull
 
